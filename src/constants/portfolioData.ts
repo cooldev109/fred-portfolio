@@ -208,9 +208,9 @@ export const skillCategories = [
 export const experienceData = [
   {
     title: "Senior Full Stack Web Developer",
-    company: "Q10 S.A.S",
-    period: "09/2023 - Present",
-    location: "Bogotá, Colombia",
+    company: "Thrive X Solutions",
+    period: "094/2022 - Present",
+    location: "Manjuyod ,Philippines",
     descriptions: [
       "Developed new features for the Q10 EdTech platform, including backend systems and responsive frontend interfaces.",
       "Ensured platform compliance with strict data security standards while supporting market expansion initiatives.",
@@ -219,9 +219,9 @@ export const experienceData = [
   },
   {
     title: "Full Stack Web Developer",
-    company: "PayZen LatAm",
-    period: "03/2021 - 08/2023",
-    location: "Buenos Aires, Argentina",
+    company: "TechnoComet Solutions",
+    period: "03/2020 - 03/2022",
+    location: "Remote",
     descriptions: [
       "Enhanced the fintech web application by adding real-time transaction management features and integrating Stripe and local LatAm payment methods.",
       "Tackled high-traffic performance issues by introducing a Redis queue using Bull for background task handling, significantly boosting app stability.",
@@ -229,10 +229,10 @@ export const experienceData = [
     ]
   },
   {
-    title: "Full Stack Web Developer",
-    company: "Loggro",
-    period: "01/2019 - 02/2021",
-    location: "Medellín, Colombia",
+    title: "Frontend Developer",
+    company: "Zanortech Computer Services",
+    period: "01/2012 - 02/2020",
+    location: "Manjuyod ,Philippines",
     descriptions: [
       "Contributed to the core ERP platform, focusing on invoicing tools, backend optimization, and data accuracy improvements for SMEs.",
       "Adapted the invoicing system to frequent national billing regulation changes by refactoring for DIAN compliance with enhanced data validation and reporting.",
@@ -246,17 +246,17 @@ export const contactInfo = [
   {
     icon: "Phone",
     title: "Phone",
-    value: "+573158269368"
+    value: "+63 947 830 4069"
   },
   {
     icon: "Mail",
     title: "Email",
-    value: "briangereztop@gmail.com"
+    value: "rikou887@gmail.com"
   },
   {
     icon: "MapPin",
     title: "Location",
-    value: "Calle 18 #43g-90, Medellin, Colombia"
+    value: "Central Visayas 6208, Manjuyod ,Philippines"
   },
   {
     icon: "Calendar",
@@ -271,7 +271,7 @@ export const socialLinks = [
   {
     name: "LinkedIn",
     icon: "Linkedin",
-    url: "https://www.linkedin.com/in/juan-daniel-ri"
+    url: "https://www.linkedin.com/in/fred-mar-nicole-bajar-9b994539b/"
   },
   {
     name: "GitHub",
