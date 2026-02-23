@@ -38,7 +38,7 @@ const SimpleFooter: React.FC = () => {
             </a>
           </div>
           <p className="text-sm text-muted-foreground text-center">
-            © {new Date().getFullYear()} Brian Le. All rights reserved.
+            © {new Date().getFullYear()} Fred Nicole. All rights reserved.
           </p>
         </div>
       </div>

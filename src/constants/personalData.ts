@@ -1,13 +1,13 @@
 
 export const personalData = {
-    name: "Brian Le",
-    mail: "briangereztop@gmail.com",
-    location: "Calle 18 #43g-90, Medellin, Colombia",
+    name: "Fred Nicole",
+    mail: "rikou887@gmail.com",
+    location: "Central Visayas 6208, Manjuyod ,Philippines",
     education: [
         {
-            degree: "Bachelor's degree, Computer Science",
-            institution: "Pontifical Bolivarian University",
-            year: "2023-2025",
+            degree: "Bachelor's degree, Information Technology",
+            institution: "Negros Oriental State University",
+            year: "2013-2017",
         },
     ],
 
